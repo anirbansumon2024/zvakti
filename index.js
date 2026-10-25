@@ -1,7 +1,7 @@
 // =========================================================================
 // ⚙️ ULTIMATE CDN ORIGIN-SHIELD WORKER ENGINE (FORCE CACHE LOCK)
 // =========================================================================
-const ORIGIN_URL = "https://bdix.ottking.top:8082"; 
+const ORIGIN_URL = "https://server.zillarbarta.com"; 
 const BACKEND_TOKEN = "bCO8cs194LW1v1";
 
 const pendingFetches = new Map();
